@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b10c5a7.css",
+    "main.js": "/static/js/main.0646ee76.js",
+    "static/media/background 2.png": "/static/media/background 2.c98355d48a2fd53c0be0.png",
+    "static/media/fundo.png": "/static/media/fundo.7a6ebde6a99c09e03da5.png",
+    "static/media/logoMaloucos.png": "/static/media/logoMaloucos.098cd0e90592759f574f.png",
+    "static/media/googleIcon.png": "/static/media/googleIcon.34017bc9bbc03ec6f505.png",
+    "static/media/checked.png": "/static/media/checked.103dc2a17834c8daefb6.png",
+    "static/media/facebookIcon.png": "/static/media/facebookIcon.4f0b3a395de443c1d165.png",
+    "index.html": "/index.html",
+    "main.5b10c5a7.css.map": "/static/css/main.5b10c5a7.css.map",
+    "main.0646ee76.js.map": "/static/js/main.0646ee76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b10c5a7.css",
+    "static/js/main.0646ee76.js"
+  ]
+}
